@@ -1,6 +1,36 @@
 <p align="center"><img src="https://i.imgur.com/7EIOUo2.png" width="100"/></p>
 <p align="center">
 
+<h2> 👨🏻‍💻 &nbsp;Hello There!</h2>
+
+```yaml
+name: Ayberk CAKIR
+located_in: Turkey, Bursa
+current_job: Flutter Developer, System Administrator
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Vijya university software engineering",
+    "Ataturk university management and information systems",
+  ]
+company: Infumia LTD
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Mobile Development",
+    "Data Science",
+    "UI/UX",
+    "Minecraft Development",
+  ]
+  
+currently_learning: ["Docker and Java"]
+hobbies: ["Gaming", "Hiking", "Comedy"]
+```
+  
+  
+  
+  
 <!--
 **mayberks/mayberks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
