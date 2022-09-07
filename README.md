@@ -7,14 +7,14 @@
 name: Ayberk CAKIR
 located_in: Bursa, TURKEY
 current_job: Flutter Developer, System Administrator, Minecraft Developer
+my_company: Infumia LTD
+
 education:
   [
     "Self-Taught Developer and Designer",
     "Vijya university software engineering",
     "Ataturk university management and information systems",
   ]
-company: Infumia LTD
-
 fields_of_interests:
   [
     "Web Development",
@@ -23,13 +23,11 @@ fields_of_interests:
     "UI/UX",
     "Minecraft Development",
   ]
-  
 get_contact:
   [
     "ayberkcakr#9861",
     "aybrkckr6@gmail.com",
   ]
-
   
 currently_learning: ["Docker and Java"]
 ```
