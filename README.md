@@ -1,4 +1,5 @@
-### Hi there 👋
+<p align="center"><img src="https://i.imgur.com/7EIOUo2.png" width="100"/></p>
+<p align="center">
 
 <!--
 **mayberks/mayberks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
