@@ -5,8 +5,8 @@
 
 ```yaml
 name: Ayberk CAKIR
-located_in: Turkey, Bursa
-current_job: Flutter Developer, System Administrator
+located_in: Bursa, TURKEY
+current_job: Flutter Developer, System Administrator, Minecraft Developer
 education:
   [
     "Self-Taught Developer and Designer",
@@ -24,8 +24,14 @@ fields_of_interests:
     "Minecraft Development",
   ]
   
+get_contact:
+  [
+    "ayberkcakr#9861",
+    "aybrkckr6@gmail.com",
+  ]
+
+  
 currently_learning: ["Docker and Java"]
-hobbies: ["Gaming", "Hiking", "Comedy"]
 ```
   
 <h2> 📈 &nbsp;Github History!</h2>
